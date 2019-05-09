@@ -5,4 +5,4 @@ CPU调优
    :maxdepth: 2
    :caption: Contents:
 
-   理解平均负载-Load Average.rst
+   Load-Average.rst
